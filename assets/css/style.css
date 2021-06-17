@@ -1,0 +1,14 @@
+img{
+  width: 400px;
+}
+.container{
+  max-width: 500px;
+}
+#logo{
+  width: 100px;
+  height: 100px
+}
+#imagen-principal{
+  height: 400px;
+  width: 500px
+}
